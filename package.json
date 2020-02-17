@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-reveal": "^1.2.2",
     "react-scripts": "3.4.0"
   },
   "scripts": {
@@ -30,5 +31,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoLiD513/react-reveal-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoLiD513/react-reveal-examples/issues"
+  },
+  "homepage": "https://github.com/SoLiD513/react-reveal-examples#readme"
 }
